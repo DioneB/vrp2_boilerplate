@@ -30,7 +30,7 @@ client_scripts{
 }
 server_scripts{ 
 	"@vrp/lib/utils.lua",
-	"vrp.lua"
+	"server_vrp.lua"
 }
 files{
 	"client/cl.lua"
