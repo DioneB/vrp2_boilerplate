@@ -18,7 +18,7 @@
 
 resource_manifest_version '44febabe-d386-4d18-afbe-5e627f4af937'
 name 'Boilerplate vRP 2.0'
-description 'Example mod for vRP 2.0'
+description 'Example Extension for vRP 2.0'
 author 'Dione B.'
 version '1.0.0'
 
